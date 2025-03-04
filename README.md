@@ -40,7 +40,7 @@ This portfolio website is designed to highlight the skills, experience, and proj
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
+   git clone https://github.com/Hantah-f/portfolio-website.git
 
 <!---
 Hantah-f/Hantah-f is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
